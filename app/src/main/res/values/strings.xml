@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UiLover</string>
+    <string name="splash_description">A vision for the future with our channel</string>
+    <string name="login_description">Start Your Activity with us</string>
+    <string name="please_login">Please Login</string>
+    <string name="login">Login</string>
+    <string name="email">Enter Your EMail</string>
+    <string name="password">Enter Your Password</string>
+    <string name="forgot_password">Don\'t Remember Password? Recovery It</string>
+    <string name="no_account">Don\'t have an account</string>
+    <string name="signup">Sign up</string>
+    <string name="login_with">Or Login with</string>
+    <string name="error_invalid_credential">Invalid username or password</string>
+    <string name="discount">Discount</string>
+    <string name="sdffd">%1$s\nDiscount</string>
+    <string name="error_not_implement">Yet to implement.</string>
+    <string name="google" translatable="false">Google</string>
+
+
+</resources>

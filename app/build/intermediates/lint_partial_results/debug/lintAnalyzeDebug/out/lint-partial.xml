@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.8.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.numaan.assesmentrngdev.presentation.ui.LauncherActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.color.black"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="8"
+            column="12"
+            startOffset="293"
+            endLine="8"
+            endColumn="24"
+            endOffset="305"/>
+        <location id="R.color.purple_200"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="3"
+            column="12"
+            startOffset="62"
+            endLine="3"
+            endColumn="29"
+            endOffset="79"/>
+        <location id="R.color.purple_500"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="4"
+            column="12"
+            startOffset="109"
+            endLine="4"
+            endColumn="29"
+            endOffset="126"/>
+        <location id="R.color.purple_700"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="5"
+            column="12"
+            startOffset="156"
+            endLine="5"
+            endColumn="29"
+            endOffset="173"/>
+        <location id="R.color.teal_200"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="6"
+            column="12"
+            startOffset="203"
+            endLine="6"
+            endColumn="27"
+            endOffset="218"/>
+        <location id="R.color.teal_700"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="7"
+            column="12"
+            startOffset="248"
+            endLine="7"
+            endColumn="27"
+            endOffset="263"/>
+        <location id="R.drawable.ic_launcher_background"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_background.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="170"
+            endColumn="10"
+            endOffset="5605"/>
+        <location id="R.drawable.ic_launcher_foreground"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable-v24/ic_launcher_foreground.xml"
+            line="1"
+            column="1"
+            startOffset="0"
+            endLine="30"
+            endColumn="10"
+            endOffset="1702"/>
+        <location id="R.string.sdffd"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="15"
+            column="13"
+            startOffset="801"
+            endLine="15"
+            endColumn="25"
+            endOffset="813"/>
+        <entry
+            name="model"
+            string="color[purple_200(D),purple_500(D),purple_700(D),teal_200(D),teal_700(D),black(D),white(U),orange(U),yellow(U),blue(U),grey(U),cultured(U)],drawable[ic_launcher_background(D),bottom_1(U),fav(U),ic_1(U),ic_2(U),ic_3(U),ic_4(U),ic_5(U),ic_6(U),ic_7(U),ic_8(U),ic_9(U),logo_banner(U),profile(U),profile_btn(U),top_1(U),top_2(U),ic_launcher_foreground(D),ic_launcher_foreground_1(E)],mipmap[ic_launcher(U),ic_launcher_round(U),ic_launcher_background(U),ic_launcher_foreground(U),ic_launcher_monochrome(U),ic_launcher_round_background(U),ic_launcher_round_foreground(U),ic_launcher_round_monochrome(U)],string[app_name(U),splash_description(U),login_description(U),please_login(U),login(U),email(U),password(U),forgot_password(U),no_account(U),signup(U),login_with(U),error_invalid_credential(U),discount(U),sdffd(D),error_not_implement(U),google(U)],style[Theme_AssesmentRngDev(U)],xml[data_extraction_rules(U),backup_rules(U)];1d^1e,1f^21^22^23,20^24^25^26;;;"/>
+    </map>
+
+</incidents>

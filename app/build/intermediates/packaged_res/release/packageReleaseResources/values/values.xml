@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#4d1fd3</color>
+    <color name="cultured">#F6F2F3</color>
+    <color name="grey">#e3e3e3</color>
+    <color name="orange">#fd6d32</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#fec813</color>
+    <string name="app_name">UiLover</string>
+    <string name="discount">Discount</string>
+    <string name="email">Enter Your EMail</string>
+    <string name="error_invalid_credential">Invalid username or password</string>
+    <string name="error_not_implement">Yet to implement.</string>
+    <string name="forgot_password">Don\'t Remember Password? Recovery It</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="login">Login</string>
+    <string name="login_description">Start Your Activity with us</string>
+    <string name="login_with">Or Login with</string>
+    <string name="no_account">Don\'t have an account</string>
+    <string name="password">Enter Your Password</string>
+    <string name="please_login">Please Login</string>
+    <string name="sdffd">%1$s\nDiscount</string>
+    <string name="signup">Sign up</string>
+    <string name="splash_description">A vision for the future with our channel</string>
+    <style name="Theme.AssesmentRngDev" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
