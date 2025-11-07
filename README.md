@@ -1,5 +1,4 @@
-## RNG DEV ASSESSMENT
-This is UiLover app
+## UiLover app
 
 ## Pre-requisites
 * Android API level 21(Lollipop) and above
@@ -7,7 +6,7 @@ This is UiLover app
 
 ## Testing App
 
-This is a assessment app for RNG DEV to demonstrate UiLover with login and logout functionalities as like in the youtube video URL. 
+This is a UiLover app with login and logout functionalities.
 
 ## Installation Guidelines
 To install the app from an APK file (unknown source):
